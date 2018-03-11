@@ -31,7 +31,6 @@ public class JsonUtils {
             return null;
         }
 
-
         Sandwich detailSandwich;
 
         try {
@@ -86,9 +85,6 @@ public class JsonUtils {
             if (listOfIngredients.size() > EMPTY_VALUE) {
                 detailSandwich.setIngredients(listOfIngredients);
             }
-
-
-
 
         } catch (JSONException exception) {
             Log.e(LOG, "Problem with parsing JSON Data");
