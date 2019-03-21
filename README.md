@@ -28,3 +28,8 @@ produces a Sandwich Object that can be used to populate the UI that you designed
 * Detail layout includes a ScrollView so all the details are visible in small screen devices
 * Sandwich details are shown in a sensible layout. For example, ingredients appear next to the ingredients label
 
+### User Interface
+<details>
+  <img src="https://github.com/PaloPodstreleny/Udacity-sandwich-club-p01/blob/master/ReadmeImages/list.png"/>
+  <img src="https://github.com/PaloPodstreleny/Udacity-sandwich-club-p01/blob/master/ReadmeImages/sandwich-detail.png"/>
+</details>
